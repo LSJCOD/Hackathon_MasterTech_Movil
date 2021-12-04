@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ArrayNo.1 Generos Registro  -->
+    <string-array name="GeneroList">
+        <item>@string/GeneroRegitro1</item>
+        <item>@string/GeneroRegitro2</item>
+        <item>@string/GeneroRegitro3</item>
+    </string-array>
+
+
+
+</resources>
